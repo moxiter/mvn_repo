@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.moxiter.interbase</groupId>
+  <artifactId>interclient</artifactId>
+  <versioning>
+    <release>XE-3</release>
+    <versions>
+      <version>XE-3</version>
+    </versions>
+    <lastUpdated>20160325090713</lastUpdated>
+  </versioning>
+</metadata>
